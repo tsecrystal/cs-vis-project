@@ -1,5 +1,6 @@
 # cs-vis-project
 CS 329E Elements of Data Visualization Project
+
 By Anna-Maria Andreeva, Ishita Kumar, and Crystal Tse
 
 In this project, two visualizations were developed using Altair (Python visualization library) to inform prospective and current University of Texas system students about salary prospects of different areas of study based on historical data. Using the SeekUT dataset, which has major, industry, and salary data, we developed visualizations that provide easy access to comprehensive information about financial prospects of different areas of study.
